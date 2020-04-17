@@ -1,4 +1,4 @@
-package CompB11Practice.src;
+package CompB11Practice;
 
 public class twoDimensionalArrays {
     public static void main(String[] args) {

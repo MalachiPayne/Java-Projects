@@ -1,4 +1,4 @@
-package CompB11Practice.src;
+package CompB11Practice;
 
 public class nestedLoopPractice {
     public static void main(String[] args) {

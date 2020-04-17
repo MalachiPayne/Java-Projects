@@ -1,3 +1,5 @@
+package CompB11Practice;
+
 import java.util.Scanner;
 
 public class testEnv {
@@ -29,5 +31,6 @@ public class testEnv {
         for (int i = 0; i < userList.length; ++i) {
             System.out.print(userList[i] + " ");
         }
+        scnr.close();
     }
 }
